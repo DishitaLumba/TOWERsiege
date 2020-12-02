@@ -64,7 +64,7 @@ function setup() {
 
 }
 function draw() {
-  background("skyblue")
+  background("lightbrown")
   ground.display();
   stand1.display();
   stand2.display();
